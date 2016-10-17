@@ -10,3 +10,7 @@
     Some simple and helpful additions to x/net/html - *May write my own scraping addon later*
   - https://github.com/olebedev/config
     Configuration from several sources (yaml, env, args, ...)
+
+
+## to evaluate
+- https://github.com/imdario/go-html-transform
